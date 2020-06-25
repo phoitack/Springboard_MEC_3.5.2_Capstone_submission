@@ -1,4 +1,4 @@
-# Springboard_MEC_3.5.2_Capstone_Submission
+# Springboard MEC 3.5.2 Capstone_Submission
 
 Date: June 24th, 2020
 
