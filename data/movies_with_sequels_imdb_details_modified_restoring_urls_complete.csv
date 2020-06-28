@@ -77,7 +77,7 @@ Predator (1987),http://www.imdb.com/title/tt0093773/,7.8,45,107,"$15,000,000 ",
 Predator 2 (1990),http://www.imdb.com/title/tt0100403/,6.3,46,108,"$35,000,000 ",8784943,30669413,57120318,21-Nov-90,R,Action Horror Sci-Fi,USA
 Predators (2010),http://www.imdb.com/title/tt1424381/,6.4,51,107,"$40,000,000 ",24760882,52000688,127233108,9-Jul-10,R,Action Adventure Sci-Fi,USA
 The Predator (2018),https://www.imdb.com/title/tt3829266/,5.4,48,107,"$88,000,000 ",24632284,51024708,160542134,14-Sep-18,R,Action Adventure Sci-Fi,USA
-The Evil Dead (1981),http://www.imdb.com/title/tt0083907/,7.5,71,85,"$350,000 ",None,2400000,2893091,15-Apr-83,NC-17,Horror,USA
+The Evil Dead (1981),http://www.imdb.com/title/tt0083907/,7.5,71,85,"$350,000 ",None,2400000,2893091,15-Apr-83,R,Horror,USA
 Evil Dead II (1987),http://www.imdb.com/title/tt0092991/,7.8,69,84,"$3,600,000 ",807260,5923044,5923044,13-Mar-87,R,Comedy Horror,USA
 Saw (2004),http://www.imdb.com/title/tt0387564/,7.6,46,103,"$1,200,000 ",18276468,56000369,103911669,29-Oct-04,R,Horror Mystery,USA
 Saw II (2005),http://www.imdb.com/title/tt0432348/,6.6,40,93,"$4,000,000 ",31725652,87039965,147748505,28-Oct-05,R,Horror Mystery,USA
@@ -207,7 +207,7 @@ Scary Movie 3 (2003),http://www.imdb.com/title/tt0306047/,5.5,49,84,"$48,000,00
 Scary Movie 4 (2006),http://www.imdb.com/title/tt0362120/,5.1,40,83,"$45,000,000 ",40222875,90710620,178262620,14-Apr-06,PG-13,Comedy Horror,USA
 The Ring (2002),http://www.imdb.com/title/tt0298130/,7.1,57,115,"$48,000,000 ",15015393,129128133,249348933,18-Oct-02,PG-13,Horror Mystery,USA
 The Ring Two (2005),http://www.imdb.com/title/tt0377109/,5.4,44,110,"$50,000,000 ",35065237,76231249,163995949,18-Mar-05,PG-13,Horror Mystery,USA
-The Texas Chainsaw Massacre 2 (1986),http://www.imdb.com/title/tt0092076/,5.6,42,89,"$4,700,000 ",2822439,8025872,8025872,22-Aug-86,Unrated,Comedy Horror,USA
+The Texas Chainsaw Massacre 2 (1986),http://www.imdb.com/title/tt0092076/,5.6,42,89,"$4,700,000 ",2822439,8025872,8025872,22-Aug-86,R,Comedy Horror,USA
 Leatherface: Texas Chainsaw Massacre III (1990),http://www.imdb.com/title/tt0099994/,5.1,30,81,"$2,000,000 ",2692087,5765562,5765562,12-Jan-90,R,Horror Thriller,USA
 The Texas Chainsaw Massacre (2003),http://www.imdb.com/title/tt0324216/,6.2,38,98,"$9,500,000 ",29100000,80571655,107362708,17-Oct-03,R,Horror,USA
 The Texas Chainsaw Massacre: The Beginning (2006),http://www.imdb.com/title/tt0420294/,5.8,30,91,"$16,000,000 ",19150000,39517763,51764406,6-Oct-06,R,Horror Thriller,USA
@@ -218,9 +218,7 @@ Shanghai Knights (2003),http://www.imdb.com/title/tt0300471/,6.2,58,114,"$50,00
 Anaconda (1997),http://www.imdb.com/title/tt0118615/,4.8,37,89,"$45,000,000 ",16620887,65885767,136885767,11-Apr-97,PG-13,Action Adventure Horror,USA
 Anacondas: The Hunt for the Blood Orchid (2004),http://www.imdb.com/title/tt0366174/,4.7,40,97,"$20,000,000 ",12812287,32238923,70992898,27-Aug-04,PG-13,Action Adventure Horror,USA
 Walking Tall (1973),http://www.imdb.com/title/tt0070895/,7,60,125,"$500,000 ",None,None,40000000,22-Feb-73,R,Action Biography Crime,USA
-Walking Tall Part II (1975),http://www.imdb.com/title/tt0073880/,6.2,None,109,None,None,None,11000000,28-Sep-75,PG,Action Biography Crime,USA
-Vacancy (2007),http://www.imdb.com/title/tt0452702/,6.2,54,85,"$19,000,000 ",7603376,19363565,35442935,20-Apr-07,R,Horror Thriller,USA
-Vacancy 2: The First Cut (2008),http://www.imdb.com/title/tt1204979/,5,None,86,"$3,000,000 ",None,None,None,20-Jan-09,R,Horror Thriller,USA
+Walking Tall Part II (1975),http://www.imdb.com/title/tt0073880/,6.2,None,109,"$500,000 ",None,None,11000000,28-Sep-75,PG,Action Biography Crime,USA
 Hostel (2005),http://www.imdb.com/title/tt0450278/,5.9,55,94,"$4,800,000 ",19556099,47326473,81979826,6-Jan-06,R,Horror,USA
 Hostel: Part II (2007),http://www.imdb.com/title/tt0498353/,5.5,46,94,"$10,200,000 ",8203391,17609452,35728183,8-Jun-07,R,Horror,USA
 Charlie's Angels (2000),http://www.imdb.com/title/tt0160127/,5.5,52,98,"$93,000,000 ",40128550,125305545,264105545,3-Nov-00,PG-13,Action Adventure Comedy,USA
@@ -232,7 +230,7 @@ Big Momma's House 2 (2006),http://www.imdb.com/title/tt0421729/,4.7,34,99,"$40,
 The Grudge (2004),http://www.imdb.com/title/tt0391198/,5.9,49,91,"$10,000,000 ",39128715,110359362,187281115,22-Oct-04,PG-13,Horror Mystery Thriller,USA
 The Grudge 2 (2006),http://www.imdb.com/title/tt0433386/,5.1,33,102,"$20,000,000 ",20825300,39143839,70711175,13-Oct-06,PG-13,Horror Thriller,USA
 National Lampoon's Van Wilder (2002),http://www.imdb.com/title/tt0283111/,6.4,26,92,"$5,000,000 ",7302913,21305259,38275483,5-Apr-02,R,Comedy Romance,Germany
-Van Wilder 2: The Rise of Taj (2006),http://www.imdb.com/title/tt0480271/,4.9,21,97,None,2313372,4300645,6086508,1-Dec-06,R,Comedy Romance,USA
+Van Wilder 2: The Rise of Taj (2006),http://www.imdb.com/title/tt0480271/,4.9,21,97,"$2,000,000 ",2313372,4300645,6086508,1-Dec-06,R,Comedy Romance,USA
 Harold & Kumar Go to White Castle (2004),http://www.imdb.com/title/tt0366551/,7.1,64,88,"$9,000,000 ",5200000,18250550,23936908,30-Jul-04,R,Adventure Comedy,USA
 Harold & Kumar Escape from Guantanamo Bay (2008),http://www.imdb.com/title/tt0481536/,6.6,57,114,"$12,000,000 ",14908404,38108728,43495888,25-Apr-08,R,Adventure Comedy,USA
 Ice Age (2002),http://www.imdb.com/title/tt0268380/,7.5,60,81,"$59,000,000 ",46312454,176387405,383257136,15-Mar-02,PG,Animation Adventure Comedy,USA
@@ -280,7 +278,7 @@ Candyman: Farewell to the Flesh (1995),http://www.imdb.com/title/tt0112625/,5.3
 Jeepers Creepers (2001),http://www.imdb.com/title/tt0263488/,6.2,49,90,"$10,000,000 ",13106108,37904175,59371303,31-Aug-01,R,Horror Mystery,USA
 Jeepers Creepers 2 (2003),http://www.imdb.com/title/tt0301470/,5.6,36,106,"$17,000,000 ",15269324,35667218,63102666,29-Aug-03,R,Horror,USA
 Boogeyman (2005),http://www.imdb.com/title/tt0357507/,4.2,32,89,"$20,000,000 ",19020655,46752382,67192859,4-Feb-05,PG-13,Drama Horror Mystery,USA
-Boogeyman 2 (2007),http://www.imdb.com/title/tt0900357/,5,None,93,"$4,500,000 ",None,None,1798418,8-Jan-08,Unrated,Drama Horror Thriller,USA
+Boogeyman 2 (2007),http://www.imdb.com/title/tt0900357/,5,None,93,"$4,500,000 ",None,None,1798418,8-Jan-08,PG-13,Drama Horror Thriller,USA
 The Omen (1976),http://www.imdb.com/title/tt0075005/,7.5,62,111,"$2,800,000 ",4273886,60922980,60922980,25-Jun-76,R,Horror,UK
 Damien: Omen II (1978),http://www.imdb.com/title/tt0077394/,6.3,45,107,"$6,800,000 ",3880880,26518355,26518355,9-Jun-78,R,Horror,UK
 Step Up (2006),http://www.imdb.com/title/tt0462590/,6.5,48,104,"$12,000,000 ",20659573,65328121,114197742,11-Aug-06,PG-13,Crime Drama Music,USA
@@ -289,7 +287,7 @@ Step Up 3D (2010),http://www.imdb.com/title/tt1193631/,6.2,45,107,"$30,000,000 
 Step Up Revolution (2012),http://www.imdb.com/title/tt1800741/,6.4,43,99,"$33,000,000 ",11731708,35074677,140470746,27-Jul-12,PG-13,Drama Music Romance,USA
 The Karate Kid (1984),http://www.imdb.com/title/tt0087538/,7.2,60,126,"$8,000,000 ",5031753,91077276,91077276,22-Jun-84,PG,Action Drama Family,USA
 The Karate Kid Part II (1986),http://www.imdb.com/title/tt0091326/,6,55,113,"$13,000,000 ",12652336,115103979,115103979,20-Jun-86,PG,Action Family Romance,USA
-The Karate Kid Part III (1989),http://www.imdb.com/title/tt0097647/,5.2,36,112,None,10364544,38956288,38956288,30-Jun-89,PG,Action Drama Family,USA
+The Karate Kid Part III (1989),http://www.imdb.com/title/tt0097647/,5.2,36,112,"$13,000,000 ",10364544,38956288,38956288,30-Jun-89,PG,Action Drama Family,USA
 The Next Karate Kid (1994),http://www.imdb.com/title/tt0110657/,4.4,36,107,"$12,000,000 ",None,8914777,15876353,9-Sep-94,PG,Action Drama Family,USA
 The Mummy (1999),http://www.imdb.com/title/tt0120616/,7,48,124,"$80,000,000 ",43369635,155385488,415933406,7-May-99,PG-13,Action Adventure Fantasy,USA
 The Mummy Returns (2001),http://www.imdb.com/title/tt0209163/,6.3,48,130,"$98,000,000 ",68139035,202019785,443280904,4-May-01,PG-13,Action Adventure Fantasy,USA
@@ -352,7 +350,7 @@ Beneath the Planet of the Apes (1970),http://www.imdb.com/title/tt0065462/,6.1,
 Escape from the Planet of the Apes (1971),http://www.imdb.com/title/tt0067065/,6.3,69,98,"$2,500,000 ",None,12348905,12348905,9-Jul-71,G,Action Sci-Fi,USA
 Conquest of the Planet of the Apes (1972),http://www.imdb.com/title/tt0068408/,6.1,49,88,"$1,700,000 ",None,9043472,9043472,30-Jun-72,PG,Action Sci-Fi,USA
 Arthur and the Invisibles (2006),http://www.imdb.com/title/tt0344854/,6,39,94,"$86,000,000 ",None,15132763,108605609,12-Jan-07,PG,Animation Adventure Comedy,France
-Arthur et la vengeance de Maltazard (2009),http://www.imdb.com/title/tt0940657/,5.3,None,107,EUR65000000,None,None,52377611,2-Dec-09,PG,Animation Adventure Family,France
+Arthur et la vengeance de Maltazard (2009),http://www.imdb.com/title/tt0940657/,5.3,None,107,"$97,500,000 ",None,None,78520547,2-Dec-09,PG,Animation Adventure Family,France
 Cheaper by the Dozen (2003),http://www.imdb.com/title/tt0349205/,5.9,46,98,"$40,000,000 ",27557647,138614544,190538630,25-Dec-03,PG,Comedy Family,USA
 Cheaper by the Dozen 2 (2005),http://www.imdb.com/title/tt0452598/,5.5,34,94,"$60,000,000 ",9309387,82571173,130154568,21-Dec-05,PG,Adventure Comedy Family,USA
 Ace Ventura: Pet Detective (1994),http://www.imdb.com/title/tt0109040/,6.9,37,86,"$15,000,000 ",12115105,72217396,107217396,4-Feb-94,PG-13,Comedy,USA
@@ -393,7 +391,7 @@ Ghost Rider (2007),http://www.imdb.com/title/tt0259324/,5.2,35,110,"$110,000,00
 Ghost Rider: Spirit of Vengeance (2011),http://www.imdb.com/title/tt1071875/,4.3,34,96,"$57,000,000 ",22115334,51774002,132563930,17-Feb-12,PG-13,Action Fantasy Thriller,USA
 The Exorcist (1973),http://www.imdb.com/title/tt0070047/,8,81,122,"$11,000,000 ",8175666,232906145,441306145,26-Dec-73,R,Horror,USA
 Exorcist II: The Heretic (1977),http://www.imdb.com/title/tt0076009/,3.8,39,117,"$14,000,000 ",6735000,30749142,30749142,17-Jun-77,R,Horror,USA
-The Exorcist III (1990),http://www.imdb.com/title/tt0099528/,6.4,48,110,None,9312219,26098824,39024251,17-Aug-90,R,Drama Horror Mystery,USA
+The Exorcist III (1990),http://www.imdb.com/title/tt0099528/,6.4,48,110,"$11,000,000 ",9312219,26098824,39024251,17-Aug-90,R,Drama Horror Mystery,USA
 Exorcist: The Beginning (2004),http://www.imdb.com/title/tt0204313/,5.2,30,114,"$80,000,000 ",18054001,41821986,78110021,20-Aug-04,R,Horror Mystery Thriller,USA
 Dominion (2005),http://www.imdb.com/title/tt0449086/,5.2,55,117,"$30,000,000 ",140703,251495,251495,1-Aug-05,R,Drama Horror Thriller,USA
 The Last Exorcism (2010),http://www.imdb.com/title/tt1320244/,5.6,63,87,"$1,800,000 ",20366613,41034350,69432527,27-Aug-10,PG-13,Horror Mystery Thriller,France
@@ -403,8 +401,8 @@ The Crimson Rivers (2000),http://www.imdb.com/title/tt0228786/,6.9,49,106,"$14,
 Les rivières pourpres 2 - Les anges de l'apocalypse (2004),http://www.imdb.com/title/tt0337103/,6,None,97,"$21,000,000 ",46376,152148,40152148,18-Feb-04,R,Action Crime Horror,France
 Les visiteurs (1993),http://www.imdb.com/title/tt0108500/,7.1,None,107,FRF50000000,24792,659810,659810,12-Jul-96,R,Comedy Fantasy,France
 Les couloirs du temps: Les visiteurs II (1998),http://www.imdb.com/title/tt0120882/,6.2,None,118,FRF140000000,68316,146072,146072,27-Mar-98,G,Comedy Fantasy,France
-Battle Royale (2000),http://www.imdb.com/title/tt0266308/,7.6,81,114,"$4,500,000 ",None,None,958989,16-Dec-00,Not Rated,Adventure Drama Sci-Fi,Japan
-Battle Royale II (2003),http://www.imdb.com/title/tt0338763/,4.7,None,155,"$9,000,000 ",None,None,14902587,5-Jul-03,Not Rated,Action Drama Sci-Fi,Japan
+Battle Royale (2000),http://www.imdb.com/title/tt0266308/,7.6,81,114,"$4,500,000 ",None,None,958989,16-Dec-00,R,Adventure Drama Sci-Fi,Japan
+Battle Royale II (2003),http://www.imdb.com/title/tt0338763/,4.7,None,155,"$9,000,000 ",None,None,14902587,5-Jul-03,R,Action Drama Sci-Fi,Japan
 Terms of Endearment (1983),http://www.imdb.com/title/tt0086425/,7.4,79,132,"$8,000,000 ",3498813,108423489,108423489,9-Dec-83,PG,Comedy Drama,USA
 The Evening Star (1996),http://www.imdb.com/title/tt0116240/,5.9,None,129,"$20,000,000 ",3306445,12767815,12767815,25-Dec-96,PG-13,Comedy Drama Romance,USA
 Happy Feet (2006),http://www.imdb.com/title/tt0366548/,6.4,77,108,"$100,000,000 ",41533432,198000317,384335608,17-Nov-06,PG,Animation Adventure Comedy,USA
@@ -421,24 +419,24 @@ Home Alone (1990),http://www.imdb.com/title/tt0099785/,7.6,63,103,"$18,000,000 
 Home Alone 2: Lost in New York (1992),http://www.imdb.com/title/tt0104431/,6.8,None,120,"$28,000,000 ",31126882,173585516,365154932,20-Nov-92,PG,Adventure Comedy Crime,USA
 Mesrine Part 1: Killer Instinct (2008),http://www.imdb.com/title/tt1259014/,7.5,71,113,"$25,000,000 ",152873,551697,31076533,22-Oct-08,R,Action Biography Crime,France
 Mesrine Part 2: Public Enemy #1 (2008),http://www.imdb.com/title/tt0411272/,7.5,72,133,"$25,000,000 ",74449,275387,321353,19-Nov-08,R,Action Biography Crime,France
-Dark Planet (2009),http://www.imdb.com/title/tt0972558/,5.1,None,115,"$18,300,000 ",None,None,23772559,1-Jan-09,TV-PG,Action Adventure Sci-Fi,Russia
-Obitaemyy ostrov. Skhvatka (2009),http://www.imdb.com/title/tt1399952/,5,None,105,"$18,300,000 ",None,None,6738672,23-Apr-09,1h 45min,23 April 2009 (Russia),Russia
-Lyubov-Morkov (2007),http://www.imdb.com/title/tt0976209/,5.1,None,100,"$3,000,000 ",None,None,12543015,1-Mar-07,1h 40min,1 March 2007 (Russia),Russia
-Lyubov 2 Morkov (2008),http://www.imdb.com/title/tt1414840/,4.8,None,100,"$3,000,000 ",None,None,19171562,23-Dec-08,1h 40min,23 December 2008 (Russia),Russia
-Paragraf 78 (2007),http://www.imdb.com/title/tt0459924/,4.9,None,88,"$4,000,000 ",None,None,5484185,22-Feb-07,Not Rated,Action Sci-Fi Thriller,Russia
-Paragraf 78 - Film vtoroy (2007),http://www.imdb.com/title/tt1097014/,4.8,None,90,"$4,000,000 ",None,None,3061624,23-Mar-07,1h 30min,23 March 2007 (Russia),Russia
-[Anti]killer (2002),http://www.imdb.com/title/tt0325005/,5.6,None,114,"$1,500,000 ",None,None,875688,1-Aug-02,1h 54min,1 August 2002 (Russia),Russia
-Antikiller 2: Antiterror (2003),http://www.imdb.com/title/tt0405699/,5.1,None,89,"$1,000,000 ",None,None,2617287,2004,1h 29min,2004 (USA),Russia
+Dark Planet (2009),http://www.imdb.com/title/tt0972558/,5.1,None,115,"$18,300,000 ",None,None,23772559,1-Jan-09,PG,Action Adventure Sci-Fi,Russia
+Obitaemyy ostrov. Skhvatka (2009),http://www.imdb.com/title/tt1399952/,5,None,105,"$18,300,000 ",None,None,6738672,23-Apr-09,R,Action Adventure Sci-Fi,Russia
+Lyubov-Morkov (2007),http://www.imdb.com/title/tt0976209/,5.1,None,100,"$3,000,000 ",None,None,12543015,1-Mar-07,R,Comedy Fantasy,Russia
+Lyubov 2 Morkov (2008),http://www.imdb.com/title/tt1414840/,4.8,None,100,"$3,000,000 ",None,None,19171562,23-Dec-08,R,Comedy Fantasy,Russia
+Paragraf 78 (2007),http://www.imdb.com/title/tt0459924/,4.9,None,88,"$4,000,000 ",None,None,5484185,22-Feb-07,R,Action Sci-Fi Thriller,Russia
+Paragraf 78 - Film vtoroy (2007),http://www.imdb.com/title/tt1097014/,4.8,None,90,"$4,000,000 ",None,None,3061624,23-Mar-07,R,Action Sci-Fi Thriller,Russia
+[Anti]killer (2002),http://www.imdb.com/title/tt0325005/,5.6,None,114,"$1,500,000 ",None,None,875688,1-Aug-02,R,Action Crime,Russia
+Antikiller 2: Antiterror (2003),http://www.imdb.com/title/tt0405699/,5.1,None,89,"$1,000,000 ",None,None,2617287,2004,R,Action Crime,Russia
 Short Circuit (1986),http://www.imdb.com/title/tt0091949/,6.7,50,98,"$9,000,000 ",5346808,40697761,40697761,9-May-86,PG,Comedy Family Sci-Fi,USA
 Short Circuit 2 (1988),http://www.imdb.com/title/tt0096101/,5.8,None,110,"$15,000,000 ",3843067,21630088,21630088,6-Jul-88,PG,Comedy Drama Family,USA
-Keinohrhasen (2007),http://www.imdb.com/title/tt0960790/,6.5,None,116,EUR4500000,None,None,81744033,20-Dec-07,1h 56min,20 December 2007 (Germany),Germany
-Zweiohrküken (2009),http://www.imdb.com/title/tt1343755/,5.6,None,124,EUR4200000,None,None,48039391,3-Dec-09,2h 4min,3 December 2009 (Germany),Germany
+Keinohrhasen (2007),http://www.imdb.com/title/tt0960790/,6.5,None,116,EUR4500000,None,None,81744033,20-Dec-07,R,Comedy Romance,Germany
+Zweiohrküken (2009),http://www.imdb.com/title/tt1343755/,5.6,None,124,EUR4200000,None,None,48039391,3-Dec-09,R,Comedy Romance,Germany
 Pet Sematary (1989),http://www.imdb.com/title/tt0098084/,6.6,38,103,"$11,500,000 ",12046179,57469467,57469467,21-Apr-89,R,Horror Thriller,USA
 Pet Sematary II (1992),http://www.imdb.com/title/tt0105128/,4.9,35,100,"$8,000,000 ",4825100,17092453,17092453,28-Aug-92,R,Fantasy Horror,USA
 The Three Musketeers (1973),http://www.imdb.com/title/tt0072281/,7.2,None,106,"$4,500,000 ",None,22018000,22018000,29-Mar-74,PG,Action Adventure,USA
 The Four Musketeers: Milady's Revenge (1974),http://www.imdb.com/title/tt0073012/,7,None,108,"$9,000,000 ",None,19096800,19096800,26-Feb-75,PG,Adventure History,Spain
-Three Steps Above Heaven (2010),http://www.imdb.com/title/tt1648216/,7,None,118,"$3,000,000 ",None,None,14066238,3-Dec-10,Not Rated,Action Drama Romance,Spain
-Tengo ganas de ti (2012),http://www.imdb.com/title/tt1797504/,6.9,None,120,"$3,000,000 ",None,None,24016152,22-Jun-12,2h,22 June 2012 (Spain),Spain
+Three Steps Above Heaven (2010),http://www.imdb.com/title/tt1648216/,7,None,118,"$3,000,000 ",None,None,14066238,3-Dec-10,R,Action Drama Romance,Spain
+Tengo ganas de ti (2012),http://www.imdb.com/title/tt1797504/,6.9,None,120,"$3,000,000 ",None,None,24016152,22-Jun-12,R,Drama Romance,Spain
 The Fly (1986),http://www.imdb.com/title/tt0091064/,7.6,79,96,"$15,000,000 ",7007423,40456565,60632088,15-Aug-86,R,Drama Horror Sci-Fi,USA
 The Fly II (1989),http://www.imdb.com/title/tt0097368/,5.1,36,105,"$8,000,000 ",6751371,20021322,38903179,10-Feb-89,R,Drama Horror Sci-Fi,USA
 Rush Hour (1998),http://www.imdb.com/title/tt0120812/,7,60,98,"$33,000,000 ",33001803,141186864,244721064,18-Sep-98,PG-13,Action Comedy Crime,USA
@@ -472,7 +470,7 @@ Fletch Lives (1989),http://www.imdb.com/title/tt0097366/,6.1,40,95,"$8,000,000 
 City of God (2002),http://www.imdb.com/title/tt0317248/,8.6,79,130,"$3,300,000 ",88292,7564459,30680793,13-Feb-04,R,Crime Drama,Brazil
 Cidade dos Homens (2007),http://www.imdb.com/title/tt0870090/,7.2,63,106,"$3,300,000 ",130579,325131,2589732,31-Aug-07,R,Crime Drama,Brazil
 Elite Squad (2007),http://www.imdb.com/title/tt0861739/,8.1,33,115,"$4,000,000 ",3604,8744,14759148,12-Oct-07,R,Action Crime Drama,Brazil
-Elite Squad 2: The Enemy Within (2010),http://www.imdb.com/title/tt1555149/,8,71,115,"$3,040,000 ",8648,100119,63618850,8-Oct-10,Not Rated,Action Crime Drama,Brazil
+Elite Squad 2: The Enemy Within (2010),http://www.imdb.com/title/tt1555149/,8,71,115,"$3,040,000 ",8648,100119,63618850,8-Oct-10,R,Action Crime Drama,Brazil
 Kick-Ass (2010),http://www.imdb.com/title/tt1250777/,7.6,66,117,"$30,000,000 ",19828687,48071303,96188903,16-Apr-10,R,Action Comedy Crime,UK
 Kick-Ass 2 (2013),http://www.imdb.com/title/tt1650554/,6.5,41,103,"$28,000,000 ",13332955,28795985,60795985,16-Aug-13,R,Action Comedy Crime,UK
 RED (2010),http://www.imdb.com/title/tt1245526/,7,60,111,"$58,000,000 ",21761408,90380162,199006387,15-Oct-10,PG-13,Action Comedy Crime,USA
@@ -499,10 +497,10 @@ Bad Santa (2003),http://www.imdb.com/title/tt0307987/,7,70,92,"$23,000,000 ",12
 Bad Santa 2 (2016),http://www.imdb.com/title/tt1798603/,5.6,38,92,"$26,000,000 ",6176680,17782178,24079268,23-Nov-16,R,Comedy Crime Drama,USA
 District B13 (2004),http://www.imdb.com/title/tt0414852/,7.2,70,84,EUR12000000,410000,1200216,11169386,2-Jun-06,R,Action Crime Sci-Fi,France
 District 13: Ultimatum (2009),http://www.imdb.com/title/tt1247640/,6.5,64,101,EUR12000000,11870,36136,14103752,18-Feb-09,R,Action Crime Thriller,France
-Taxi (1998),http://www.imdb.com/title/tt0152930/,7,None,86,"$8,700,000 ",None,None,44500000,20-Nov-98,Not Rated,Action Comedy Crime,France
-Taxi 2 (2000),https://www.imdb.com/title/tt0183869/,6.5,None,88,"$10,400,000 ",None,626164,60726164,6-Oct-00,Not Rated,Action Comedy Crime,France
-Taxi 3 (2003),https://www.imdb.com/title/tt0295721/,5.8,None,84,"$14,500,000 ",288000,497208,65497208,29-Jan-03,Not Rated,Action Comedy Crime,France
-Taxi 4 (2007),http://www.imdb.com/title/tt0804540/,5.6,None,91,"$17,500,000 ",None,None,65125001,14-Feb-07,Not Rated,Action Comedy Crime,France
+Taxi (1998),http://www.imdb.com/title/tt0152930/,7,None,86,"$8,700,000 ",None,None,44500000,20-Nov-98,PG-13,Action Comedy Crime,France
+Taxi 2 (2000),https://www.imdb.com/title/tt0183869/,6.5,None,88,"$10,400,000 ",None,626164,60726164,6-Oct-00,PG-13,Action Comedy Crime,France
+Taxi 3 (2003),https://www.imdb.com/title/tt0295721/,5.8,None,84,"$14,500,000 ",288000,497208,65497208,29-Jan-03,PG-13,Action Comedy Crime,France
+Taxi 4 (2007),http://www.imdb.com/title/tt0804540/,5.6,None,91,"$17,500,000 ",None,None,65125001,14-Feb-07,PG-13,Action Comedy Crime,France
 Miss Congeniality (2000),http://www.imdb.com/title/tt0212346/,6.2,43,109,"$45,000,000 ",10046534,106807667,212742720,22-Dec-00,PG-13,Action Comedy Crime,USA
 Miss Congeniality 2: Armed & Fabulous (2005),http://www.imdb.com/title/tt0385307/,5.1,34,115,"$45,000,000 ",14043215,48478006,101393569,24-Mar-05,PG-13,Action Comedy Crime,USA
 Sherlock Holmes (2009),http://www.imdb.com/title/tt0988045/,7.6,57,128,"$90,000,000 ",62304277,209028679,524028679,25-Dec-09,PG-13,Action Adventure Mystery,USA
@@ -537,14 +535,14 @@ Rio (2011),http://www.imdb.com/title/tt1436562/,6.9,63,96,"$90,000,000 ",392259
 Rio 2 (2014),http://www.imdb.com/title/tt2357291/,6.3,49,101,"$103,000,000 ",39327869,131538435,498781117,11-Apr-14,G,Animation Adventure Comedy,USA
 The Best Exotic Marigold Hotel (2011),http://www.imdb.com/title/tt1412386/,7.2,62,124,"$10,000,000 ",737051,46412041,136836156,25-May-12,PG-13,Comedy Drama Romance,UK
 The Second Best Exotic Marigold Hotel (2015),http://www.imdb.com/title/tt2555736/,6.6,51,122,"$10,000,000 ",8540370,33078266,85978266,6-Mar-15,PG,Comedy Drama,UK
-Nymphomaniac: Vol. I (2013),http://www.imdb.com/title/tt1937390/,6.9,64,117,"$2,350,000 ",158369,785896,13545832,6-Mar-14,Not Rated,Drama,Denmark
-Nymphomaniac: Vol. II (2013),http://www.imdb.com/title/tt2382009/,6.7,60,124,"$2,350,000 ",74978,327167,4934725,20-Mar-14,Not Rated,Drama,Denmark
+Nymphomaniac: Vol. I (2013),http://www.imdb.com/title/tt1937390/,6.9,64,117,"$2,350,000 ",158369,785896,13545832,6-Mar-14,R,Drama,Denmark
+Nymphomaniac: Vol. II (2013),http://www.imdb.com/title/tt2382009/,6.7,60,124,"$2,350,000 ",74978,327167,4934725,20-Mar-14,R,Drama,Denmark
 The Lego Movie (2014),http://www.imdb.com/title/tt1490017/,7.7,83,100,"$60,000,000 ",69050279,257760692,468060692,7-Feb-14,PG,Animation Action Adventure,USA
 The Lego Movie 2: The Second Part (2019),http://www.imdb.com/title/tt3513498/,6.6,65,107,"$99,000,000 ",34115335,105806508,192306508,8-Feb-19,PG,Animation Action Adventure,Denmark
 The Woman in Black (2012),http://www.imdb.com/title/tt1596365/,6.4,62,95,"$17,000,000 ",20874072,54333290,128955898,3-Feb-12,PG-13,Drama Fantasy Horror,UK
 The Woman in Black 2: Angel of Death (2014),http://www.imdb.com/title/tt2339741/,4.8,42,98,"$15,000,000 ",15027415,26501323,48854305,2-Jan-15,PG-13,Drama Horror Thriller,UK
-The Trip (2010),http://www.imdb.com/title/tt1740047/,7,None,112,"$1,000,000 ",77904,2030962,3945217,24-Apr-11,Not Rated,Comedy Drama,UK
-The Trip to Italy (2014),http://www.imdb.com/title/tt2967006/,6.6,75,108,"$2,000,000 ",71712,2880537,6132875,25-Apr-14,Not Rated,Comedy Drama,UK
+The Trip (2010),http://www.imdb.com/title/tt1740047/,7,None,112,"$1,000,000 ",77904,2030962,3945217,24-Apr-11,PG-13,Comedy Drama,UK
+The Trip to Italy (2014),http://www.imdb.com/title/tt2967006/,6.6,75,108,"$2,000,000 ",71712,2880537,6132875,25-Apr-14,PG-13,Comedy Drama,UK
 The Best Man (1999),http://www.imdb.com/title/tt0168501/,6.8,61,120,"$9,000,000 ",9031660,34102780,34573780,22-Oct-99,R,Comedy Drama Romance,USA
 The Best Man Holiday (2013),http://www.imdb.com/title/tt2083355/,6.7,59,123,"$17,000,000 ",30107555,70525195,72835710,15-Nov-13,R,Comedy Drama,USA
 Agent Cody Banks (2003),http://www.imdb.com/title/tt0313911/,5,41,102,"$28,000,000 ",14064317,47938330,58795814,14-Mar-03,PG,Action Adventure Comedy,USA
@@ -556,13 +554,13 @@ Anchorman 2: The Legend Continues (2013),http://www.imdb.com/title/tt1229340/,6
 Lung hing foo dai (1986),http://www.imdb.com/title/tt0091431/,7.1,None,88,"$15,000,000 ",None,None,"4,576,550",21-Jan-87,R,Action Adventure Comedy,Hong Kong
 Operation Condor (1991),http://www.imdb.com/title/tt0099558/,7.3,None,106,"$15,000,000 ",4731751,10405394,10405394,18-Jul-97,PG-13,Action Adventure Comedy,Hong Kong
 New Police Story (2004),http://www.imdb.com/title/tt0386005/,7,None,123,"$11,000,000 ",None,None,8712057,24-Sep-04,R,Action Crime Drama,Hong Kong
-Police Story: Lockdown (2013),http://www.imdb.com/title/tt2599716/,6.1,44,110,"$35,000,000 ",None,None,94249025,5-Jun-15,Not Rated,Action Adventure Crime,China
+Police Story: Lockdown (2013),http://www.imdb.com/title/tt2599716/,6.1,44,110,"$35,000,000 ",None,None,94249025,5-Jun-15,R,Action Adventure Crime,China
 Before Sunrise (1995),http://www.imdb.com/title/tt0112471/,8.1,77,101,"$2,500,000 ",1423537,5535405,5986708,27-Jan-95,R,Drama Romance,USA
 Before Sunset (2004),http://www.imdb.com/title/tt0381681/,8,90,80,"$2,700,000 ",219425,5820649,15936507,30-Jul-04,R,Drama Romance,USA
-Asterix and Obelix vs. Caesar (1999),http://www.imdb.com/title/tt0133385/,6,None,109,FRF274620000,304245,1541261,1632567,14-Jul-00,Not Rated,Adventure Comedy Family,France
+Asterix and Obelix vs. Caesar (1999),http://www.imdb.com/title/tt0133385/,6,None,109,FRF274620000,304245,1541261,1632567,14-Jul-00,PG,Adventure Comedy Family,France
 Asterix & Obelix: Mission Cleopatra (2002),http://www.imdb.com/title/tt0250223/,6.6,None,107,FRF327000000,None,3115188,128027976,24-Jun-05,PG,Adventure Comedy Family,France
-Astérix aux jeux olympiques (2008),http://www.imdb.com/title/tt0463872/,5.2,None,116,EUR78000000,None,None,131856927,13-Jun-08,Not Rated,Adventure Comedy Family,France
-Astérix and Obélix: God Save Britannia (2012),http://www.imdb.com/title/tt1597522/,5.3,None,110,EUR61000000,None,None,61319383,17-Oct-12,1h 50min,17 October 2012 (France),France
+Astérix aux jeux olympiques (2008),http://www.imdb.com/title/tt0463872/,5.2,None,116,EUR78000000,None,None,131856927,13-Jun-08,PG,Adventure Comedy Family,France
+Astérix and Obélix: God Save Britannia (2012),http://www.imdb.com/title/tt1597522/,5.3,None,110,EUR61000000,None,None,61319383,17-Oct-12,PG,17 October 2012 (France),France
 Teenage Mutant Ninja Turtles (2014),http://www.imdb.com/title/tt1291150/,5.8,31,101,"$125,000,000 ",65575105,191204754,485004754,8-Aug-14,PG-13,Action Adventure Comedy,USA
 Teenage Mutant Ninja Turtles: Out of the Shadows (2016),http://www.imdb.com/title/tt3949660/,6,40,112,"$135,000,000 ",35316382,82051601,245623848,3-Jun-16,PG-13,Action Adventure Comedy,USA
 The Equalizer (2014),http://www.imdb.com/title/tt0455944/,7.2,57,132,"$55,000,000 ",34137828,101530738,192330738,26-Sep-14,R,Action Crime Thriller,USA
@@ -601,8 +599,8 @@ REC (2007),http://www.imdb.com/title/tt1038988/,7.4,69,78,EUR1500000,None,None,
 [Rec] 2 (2009),http://www.imdb.com/title/tt1245112/,6.5,52,85,"$5,600,000 ",8191,27766,18853164,2-Oct-09,R,Action Adventure Fantasy,Spain
 [REC] 3: Genesis (2012),http://www.imdb.com/title/tt1649444/,5,45,80,"$6,400,000 ",3001,9600,11019975,30-Mar-12,R,Action Comedy Horror,Spain
 [REC] 4: Apocalypse (2014),http://www.imdb.com/title/tt1649443/,5.3,53,95,EUR3000000,708,837,4915757,31-Oct-14,R,Action Adventure Fantasy,Spain
-Grave Encounters (2011),http://www.imdb.com/title/tt1703199/,6.1,33,92,"$120,000 ",None,None,3613222,9-Sep-11,Not Rated,Adventure Fantasy Horror,Canada
-Grave Encounters 2 (2012),http://www.imdb.com/title/tt2231554/,5.1,None,95,"$1,400,000 ",None,None,1552486,2-Oct-12,Not Rated,Action Adventure Fantasy,Canada
+Grave Encounters (2011),http://www.imdb.com/title/tt1703199/,6.1,33,92,"$120,000 ",None,None,3613222,9-Sep-11,R,Adventure Fantasy Horror,Canada
+Grave Encounters 2 (2012),http://www.imdb.com/title/tt2231554/,5.1,None,95,"$1,400,000 ",None,None,1552486,2-Oct-12,R,Action Adventure Fantasy,Canada
 An American Werewolf in London (1981),http://www.imdb.com/title/tt0082010/,7.5,60,97,"$10,000,000 ",3786512,30565292,30565292,21-Aug-81,R,Comedy Horror,UK
 An American Werewolf in Paris (1997),http://www.imdb.com/title/tt0118604/,5.1,31,105,"$25,000,000 ",7600878,26570463,26570463,25-Dec-97,R,Comedy Fantasy Horror,UK
 The Blues Brothers (1980),http://www.imdb.com/title/tt0080455/,7.9,60,133,"$27,000,000 ",4858152,57229890,115229890,20-Jun-80,R,Adventure Comedy Crime,USA
@@ -677,7 +675,7 @@ Independence Day (1996),http://www.imdb.com/title/tt0116629/,7,59,145,"$75,000,
 Independence Day: Resurgence (2016),http://www.imdb.com/title/tt1628841/,5.2,32,120,"$165,000,000 ",41039944,103144286,389681935,24-Jun-16,PG-13,Action Adventure Sci-Fi,USA
 Unbreakable (2000),http://www.imdb.com/title/tt0217869/,7.3,62,106,"$75,000,000 ",30330771,95011339,248118121,22-Nov-00,PG-13,Drama Mystery Sci-Fi,USA
 Split (2016),http://www.imdb.com/title/tt4972582/,7.3,62,117,"$9,000,000 ",40010975,138291365,278454358,20-Jan-17,PG-13,Horror Thriller,USA
-The Hustler (1961),http://www.imdb.com/title/tt0054997/,8,90,134,"$21,500,000 ",None,None,7600000,25-Sep-61,Not Rated,Drama Sport,USA
+The Hustler (1961),http://www.imdb.com/title/tt0054997/,8,90,134,"$2,150,000 ",None,None,7600000,25-Sep-61,R,Drama Sport,USA
 The Color of Money (1986),http://www.imdb.com/title/tt0090863/,7,77,119,"$13,800,000 ",6357877,52293982,52293982,17-Oct-86,R,Drama Sport,USA
 Trainspotting (1996),http://www.imdb.com/title/tt0117951/,8.1,83,93,"$3,500,000 ",262673,16491080,16593356,9-Aug-96,R,Drama,UK
 T2 Trainspotting (2017),http://www.imdb.com/title/tt2763304/,7.2,67,117,"$18,000,000 ",170575,2402004,41681746,31-Mar-17,R,Drama,UK
@@ -754,13 +752,13 @@ Zombieland: Double Tap (2019),http://www.imdb.com/title/tt1156398/,6.7,55,99,"$
 The Shining (1980),http://www.imdb.com/title/tt1560220/,8.4,66,144,"$19,000,000 ",622337,45332952,46220969,13-Jun-80,R,Drama Horror,UK
 Doctor Sleep (2019),http://www.imdb.com/title/tt0081505/,7.4,59,152,"$45,000,000 ",14114124,31581712,72381712,8-Nov-19,R,Drama Fantasy Horror,USA
 Dogville (2003),http://www.imdb.com/title/tt5606664/,8,60,178,"$10,000,000 ",88855,1535286,16689283,23-Apr-04,R,Crime Drama,Denmark
-Manderlay (2005),http://www.imdb.com/title/tt0276919/,7.3,46,139,"$14,200,000 ",15117,78378,674918,3-Jun-05,Not Rated,Drama,Denmark
+Manderlay (2005),http://www.imdb.com/title/tt0276919/,7.3,46,139,"$14,200,000 ",15117,78378,674918,3-Jun-05,R,Drama,Denmark
 Dr. No (1962),http://www.imdb.com/title/tt0342735/,7.2,78,110,"$1,100,000 ",None,16067035,16067035,10-Oct-62,PG,Action Adventure Thriller,UK
 From Russia with Love (1963),http://www.imdb.com/title/tt0057076/,7.4,84,115,"$2,000,000 ",None,24796765,24808046,27-May-64,PG,Action Adventure Thriller,UK
 Goldfinger (1964),http://www.imdb.com/title/tt0058150/,7.7,87,110,"$3,000,000 ",None,51081062,51158864,9-Jan-65,PG,Action Adventure Thriller,UK
 Thunderball (1965),http://www.imdb.com/title/tt0059800/,7,64,130,"$9,000,000 ",None,63595658,63595658,22-Dec-65,PG,Action Adventure Thriller,UK
 You Only Live Twice (1967),http://www.imdb.com/title/tt0062512/,6.9,61,117,"$9,500,000 ",None,43084787,43084787,13-Jun-67,PG,Action Adventure Thriller,UK
-Casino Royale (1967),https://www.imdb.com/title/tt0061452/,5.2,48,131,"$12,000,000 ",None,None,41700000,28-Apr-67,Not Rated,Comedy,UK
+Casino Royale (1967),https://www.imdb.com/title/tt0061452/,5.2,48,131,"$12,000,000 ",None,None,41700000,28-Apr-67,PG,Comedy,UK
 On Her Majesty's Secret Service (1969),http://www.imdb.com/title/tt0064757/,6.7,61,142,"$7,000,000 ",None,22774493,22787885,19-Dec-69,PG,Action Adventure Thriller,UK
 Diamonds Are Forever (1971),http://www.imdb.com/title/tt0066995/,6.6,59,120,"$7,200,000 ",None,43819547,43819547,17-Dec-71,PG,Action Adventure Thriller,UK
 Live and Let Die (1973),http://www.imdb.com/title/tt0070328/,6.8,55,121,"$7,000,000 ",None,35377836,35377836,27-Jun-73,PG,Action Adventure Thriller,UK
@@ -849,8 +847,8 @@ Death Wish (1974),https://www.imdb.com/title/tt0071402/,7,51,93,"$3,000,000 ",N
 Death Wish II (1982),https://www.imdb.com/title/tt0082250/,6.1,11,89,"$2,000,000 ",None,16100000,16100000,19-Feb-82,R,Action Crime Drama,USA
 Death Wish 3 (1985),https://www.imdb.com/title/tt0089003/,5.9,18,92,"$9,000,000 ",5319116,16116878,16116878,1-Nov-85,R,Action Crime Drama,USA
 Death Wish 4: The Crackdown (1987),https://www.imdb.com/title/tt0092857/,5.5,46,99,"$5,000,000 ",2466557,6880310,6880310,6-Nov-87,R,Action Crime Drama,USA
-Dhoom (2004),https://www.imdb.com/title/tt0422091/,6.7,None,129,INR200000000,102860,245756,7312209,27-Aug-04,Not Rated,Action Thriller,India
-Dhoom 2 (2006),https://www.imdb.com/title/tt0441048/,6.5,None,152,INR350000000,979001,2643586,32396427,24-Nov-06,Not Rated,Action Thriller,India
+Dhoom (2004),https://www.imdb.com/title/tt0422091/,6.7,None,129,INR200000000,102860,245756,7312209,27-Aug-04,R,Action Thriller,India
+Dhoom 2 (2006),https://www.imdb.com/title/tt0441048/,6.5,None,152,INR350000000,979001,2643586,32396427,24-Nov-06,R,Action Thriller,India
 Crocodile Dundee (1986),https://www.imdb.com/title/tt0090555/,6.6,62,97,"$8,800,000 ",8038855,174803506,328203506,26-Sep-86,PG-13,Action Adventure Comedy,Australia
 Crocodile Dundee II (1988),https://www.imdb.com/title/tt0092493/,5.6,41,108,"$14,000,000 ",24462976,109306210,239606210,25-May-88,PG,Action Adventure Comedy,Australia
 Smokey and the Bandit (1977),https://www.imdb.com/title/tt0076729/,7,50,96,"$4,300,000 ",None,126737428,126737428,27-May-77,PG,Action Comedy,USA
@@ -896,4 +894,8 @@ Ip Man 4,https://www.imdb.com/title/tt2076298/,7.1,62,107,"$52,000,000 ",None,39
 The Big Boss,https://www.imdb.com/title/tt0067824/,7.1,None,99,"$100,000 ",None,None,50000000,23-Oct-71,R,Action Crime Drama,Hong Kong
 Fist of Fury,https://www.imdb.com/title/tt0068767/,7.4,68,107,"$100,000 ",None,None,100000000,9-Sep-72,R,Action Drama Romance,Hong Kong
 The Way of the Dragon,https://www.imdb.com/title/tt0068935/,7.3,74,90,"$130,000 ",None,None,130000000,14-Aug-72,R,Action Adventure Crime,Hong Kong
-Enter the Dragon,https://www.imdb.com/title/tt0070034/,7.7,83,102,"$850,000 ",None,None,350000000,,R,Action Crime Drama,Hong Kong
+Enter the Dragon,https://www.imdb.com/title/tt0070034/,7.7,83,102,"$850,000 ",None,None,350000000,19-Aug-73,R,Action Crime Drama,Hong Kong
+Flatliners,https://www.imdb.com/title/tt0099582,6.6,55,115,"$26,000,000 ",10034685,61489265,61489265,10-Aug-90,R,Drama Horror Sci-Fi,USA
+Flatliners (Remake),https://www.imdb.com/title/tt2039338/,5.2,27,109,"$19,000,000 ",6574326,16883115,45158254,1-Oct-17,PG-13,Drama Horror Sci-Fi,USA
+Bhoothnath,http://www.imdb.com/title/tt0991346/,6.3,None,150,"$210,000 ",330246,476032,13236817,9-May-08,PG-13,Comedy Drama Family,India
+Bhoothnath 2,http://www.imdb.com/title/tt3531852/,6.7,None,155,"$4,522,000 ",None,None,7050000,11-Apr-14,PG-13,Comedy Drama Family,India
