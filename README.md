@@ -1,10 +1,16 @@
 # Springboard MEC 3.5.2 Capstone_Submission
 
+Date: July 9th, 2020
+
+Fixed a bug in the jupyter notebook `3.5.2_IMDB_webscrapper_sequels_franchise_part_02.ipynb`. It was copying the same urls for all.
+
+
+
 Date: June 24th, 2020
 
 I will update the README as changes are made to this repository. The purpose of this submission is to provide three possible data sources for Springboard's Capstone projects. **Please look at the date stamp above to make sure it is the latest**. 
 
-1. **Dataset 1:** Being somewhat of movie fanatic myself both foreign and domestic, I have always wondered how does a movie studio budget a movie especially a sequel or franchise of movies. Movies have existed for more than a century, but it is only within the last 50 years that relevant data have been collected. In order to budget, one must at least predict what the movie would make. A great example is Star Wars: A New Hope. No one knew beforehand it was going to be a success and when it did, then only was The Empire Strikes Back alotted a larger bundget to film. However, if a movie studio deems that a sequel will not make a profit, then it will have to think twice on how to improve the sequel or not go ahead at all.
+1. **Dataset 1:** Being somewhat of movie fanatic myself both foreign and domestic, I have always wondered how does a movie studio budget a movie especially a sequel or franchise of movies. Movies have existed for more than a century, but it is only within the last 50 years that relevant data have been collected. In order to budget, one must at least predict what the movie would make. A great example is Star Wars: A New Hope. No one knew beforehand it was going to be a success and when it did, only then 'The Empire Strikes Back' was alotted a larger budget to produce. However, if a movie studio deems that a sequel is not likely make a profit, then it will have to think twice on how to improve the sequel or not go ahead at all.
     
     So for this project I would like to predict with reasonable accuracy the box office returns of a movie sequel. This repository contains notebooks that webscrape data from the IMDB movie database. The data contained in the `data/` sub-directory contains a list of csv files that are relevant. The most important file that has been wrangled, cleaned and curated is 
     
