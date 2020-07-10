@@ -1,5 +1,10 @@
 # Springboard MEC 3.5.2 Capstone_Submission
 
+Date: July 9th, 2020
+
+Fixed a bug in the jupyter notebook `3.5.2_IMDB_webscrapper_sequels_franchise_part_02.ipynb`. It was copying the same urls for all.
+
+
 Date: June 24th, 2020
 
 I will update the README as changes are made to this repository. The purpose of this submission is to provide three possible data sources for Springboard's Capstone projects. **Please look at the date stamp above to make sure it is the latest**. 
