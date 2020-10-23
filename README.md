@@ -1,6 +1,17 @@
-# Springboard MEC 3.5.2 Capstone 1 Submission
+# Springboard MEC 3.5.2 Capstone 1
+
+**Date: October 22nd, 2020**
+
+Made significant progress. Namely:
+
+1. Wrangled, sourced, cross-referenced missing data. There are still some missing portions but the important ones such as budgets have are fixed.
 
 
+2. Split data files into 'original' and 'sequel'
+
+File name of jupyer notebook is 
+
+`Box_Office_Movie_Franchise_Predictor_Cleaning.ipynb`
 
 **Date: July 9th, 2020**
 
