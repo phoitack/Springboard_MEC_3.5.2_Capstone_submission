@@ -1,4 +1,17 @@
-# Springboard MEC 3.5.2 Capstone 1
+# Movie Franchise/Sequel Predictor
+
+
+**Date: October 26th, 2020**
+
+Comments:
+
+1. Renamed all notebook files
+
+2. Performed some Exploratory Data Analysis (EDA) on movie data. Notebook name is 
+
+`04_Box_Office_Movie_Franchise_Predictor_EDA.ipynb`
+
+
 
 **Date: October 22nd, 2020**
 
