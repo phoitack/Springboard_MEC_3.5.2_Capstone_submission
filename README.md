@@ -15,6 +15,11 @@ and the another Figure showing the percent residual as a function of predicted r
 ![pct_resid_option1](./images/residuals_option_1.svg)
 
 
+The figure below shows the coefficients or feature importance based on the features that were used during the first round
+
+![feature_imp_option1](./images/coefficients_option1.svg)
+
+
 **Date: October 26th, 2020**
 
 Comments:
