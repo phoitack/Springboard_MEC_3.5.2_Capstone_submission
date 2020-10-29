@@ -6,6 +6,9 @@ Added modeling notebook
 
 `05_Box_Office_Movie_Franchise_Predictor_Modeling.ipynb`
 
+The image below shows the R2-scores for several regressors to predict the box office returns of a movie sequel
+
+![r2_score_option1](./images/model_r2_scores_option1.svg)
 
 
 **Date: October 26th, 2020**
