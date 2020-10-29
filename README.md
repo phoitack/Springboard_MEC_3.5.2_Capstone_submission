@@ -10,6 +10,10 @@ The image below shows the R2-scores for several regressors to predict the box of
 
 ![r2_score_option1](./images/model_r2_scores_option1.svg)
 
+and the another Figure showing the percent residual as a function of predicted returns
+
+![pct_resid_option1](./images/residuals_option_1.svg)
+
 
 **Date: October 26th, 2020**
 
