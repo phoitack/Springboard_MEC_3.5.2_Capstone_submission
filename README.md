@@ -1,5 +1,12 @@
 # Movie Franchise/Sequel Predictor
 
+**Date: October 28th, 2020**
+
+Added modeling notebook
+
+`05_Box_Office_Movie_Franchise_Predictor_Modeling.ipynb`
+
+
 
 **Date: October 26th, 2020**
 
